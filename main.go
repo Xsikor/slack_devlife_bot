@@ -20,7 +20,7 @@ const (
 	KB         = 1024
 	MB         = KB * KB
 	getURL     = "https://developerslife.ru/latest/0?json=true"
-	MaxGifSize = 4 * MB
+	MaxGifSize = 3 * MB
 )
 
 var (
